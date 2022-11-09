@@ -1,5 +1,5 @@
-# Viz_contribution
-Community contribution assignment for EDAV class
+# Cheat sheet for ggmap
+This project is for community contribution assignment for EDAV class
 
 An explanation of the motivation for the project, the need it addresses, and your own evaluation of the project including what you learned / what you might do differently next time. (1/2 page)
 
