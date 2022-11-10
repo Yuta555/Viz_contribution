@@ -1,12 +1,6 @@
----
-title: "Explanation for this Project"
-author: "Yuta Adachi"
-output: html_document
----
+# Geographic visualization by ggmap
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Yuta Adachi
 
 As my community contribution for the EDAV class, I created a cheat sheet about the geographic visualization by using ggmap.
 
