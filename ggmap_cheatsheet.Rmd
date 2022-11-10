@@ -3,7 +3,6 @@
 Yuta Adachi
 
 As my community contribution for the EDAV class, I created a cheat sheet about the geographic visualization by using ggmap.
-
 The link for the cheat sheet is [here](https://github.com/Yuta555/ggmap_cheatsheet/blob/main/ggmap_cheatsheet.pdf).
 
 ## Motivation for this project
